@@ -1,0 +1,20 @@
+[
+  {
+    "codigo": "P001",
+    "nombre": "Cuaderno",
+    "precio": 8500.0,
+    "cantidad": 23
+  },
+  {
+    "codigo": "P002",
+    "nombre": "Bolígrafo",
+    "precio": 2500.0,
+    "cantidad": 7
+  },
+  {
+    "codigo": "P003",
+    "nombre": "Carpeta",
+    "precio": 4200.0,
+    "cantidad": 15
+  }
+]
